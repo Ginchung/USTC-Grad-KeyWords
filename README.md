@@ -1,5 +1,5 @@
 # USTC-Grad-KeyWords
-中国科技大学2018届毕业生的关键词
+中国科学技术大学2018届本科毕业生的关键词
 
 ## 使用方法
 可以直接运行main.py文件
@@ -12,7 +12,6 @@ Python(你懂的)
 * Matplotlib
 * Wordcloud
 * Jieba
-* Numpy
 * Scipy
 
 ## Source of Statistics
@@ -23,4 +22,4 @@ Python(你懂的)
 
 你猜猜名人是谁:)
 
-2018年5月8日
+2018年6月13日
